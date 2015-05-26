@@ -1,3 +1,7 @@
 .carousel-inner img {
   margin: auto;
 }
+
+.btn.xl{
+background-color: transparent;
+}
