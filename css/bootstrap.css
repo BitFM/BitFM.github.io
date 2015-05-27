@@ -1176,9 +1176,7 @@ hr {
 [role="button"] {
   cursor: pointer;
 }
-h1,{
-    color: black
-}
+h1,
 h2,
 h3,
 h4,
@@ -4894,7 +4892,6 @@ a.badge:focus {
   .jumbotron h1,
   .jumbotron .h1 {
     font-size: 63px;
-    color: black
   }
 }
 .thumbnail {
