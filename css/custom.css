@@ -14,3 +14,7 @@ background-color: transparent;
 section#contact{
 background-color:#ded6d6;
 }
+
+img.img-circle.img-responsive {
+    margin: 0 auto;
+}
